@@ -6,7 +6,7 @@
 
 ---
 
-## 💡 Sobre mim
+## 🧠 Sobre mim
 
 - 🎓 Estudante de **Sistemas de Informação**, com formação técnica em Desenvolvimento de Sistemas
 - 🖥️ Experiência com **desenvolvimento Back-End**, especialmente em **.NET e APIs REST**
